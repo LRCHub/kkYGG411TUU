@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ハートの主張",
+  "base_artist": "CHiCO with HoneyWorks",
+  "createdAt": "2026-03-01T09:58:30.582474Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハートの主張 feat.高見沢アリサ(CV:東山奈央)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_ハートの主張_feat.高見沢アリサ(CV_東山奈央)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハートの主張",
+      "artist": "HoneyWorks/高見沢アリサ(CV:東山奈央)",
+      "has_synced": true,
+      "path": "select/02_ハートの主張_HoneyWorks_高見沢アリサ(CV_東山奈央).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハートの主張",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": false,
+      "path": "select/03_ハートの主張_CHiCO_with_HoneyWorks.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハートの主張 feat.高見沢アリサ(CV:東山奈央)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/04_ハートの主張_feat.高見沢アリサ(CV_東山奈央)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハートの主張",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/05_ハートの主張_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハートの主張",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/06_ハートの主張_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハートの主張",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/07_ハートの主張_HoneyWorks.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ハートの主張",
+      "artist": "HoneyWorks feat.高見沢アリサ(CV.東山奈央)",
+      "has_synced": true,
+      "path": "select/08_ハートの主張_HoneyWorks_feat.高見沢アリサ(CV.東山奈央).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ハートの主張",
+      "artist": "CHiCO",
+      "has_synced": true,
+      "path": "select/09_ハートの主張_CHiCO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ハートの主張",
+      "artist": "HoneyWorks, 高見沢アリサ(CV:東山奈央)",
+      "has_synced": true,
+      "path": "select/10_ハートの主張_HoneyWorks,_高見沢アリサ(CV_東山奈央).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハートの主張",
+      "artist": "CHICO with HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_ハートの主張_CHICO_with_HoneyWorks.txt"
+    }
+  ]
+}
